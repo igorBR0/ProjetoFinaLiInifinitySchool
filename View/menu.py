@@ -21,7 +21,7 @@ class menu:
                 #if user.getcargo() == 'admin':
                  #   return user.getcargo(), user.getnome()
             else:
-                     print("Usuario nao existe")
+                     print("Usuario nao existe,tente novamente")
                
     def menuViewl1(self):
         while(True):
